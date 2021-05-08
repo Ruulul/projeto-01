@@ -1,0 +1,7 @@
+.Page {
+	background-color: hsl(175, 60%, 60%);
+	border-width: 5rem;
+	border-color: hsl(0, 60%, 60%);
+	padding: 0.3rem;
+	margin: 0 0.5rem;
+}
