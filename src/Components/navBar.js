@@ -1,4 +1,4 @@
-function NavBar {
+function NavBar(props){
 	return (
 		<div>
 			NavBar ;P

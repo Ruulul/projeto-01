@@ -1,7 +1,7 @@
-import { Router, Route, Link } from 'react-router';
+import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import NavBar from './Components/navBar';
 
-function RouterApp {
+function RouterApp(props) {
 	return (
 		<Router>
 			<Route path="/" component={NavBar}>
